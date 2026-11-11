@@ -1,0 +1,6 @@
+{
+  "name": "아로아나의 창고 - 프리다이빙 클럽",
+  "description": "깊고 고요한 바다를 향한 호흡, 프리다이빙 동호회 '아로아나의 창고' 공식 홈페이지입니다. 잠수풀 트레이닝, 장비 렌탈 창고, 버디 매칭 및 투어 일정을 확인하세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
